@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "oathtool",
+  "versions": [
+    {
+      "commit": "848ad4290311b010a257225ab06066a8f3a08f43",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:02:02.602612+00:00"
+    }
+  ]
+}
