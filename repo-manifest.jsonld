@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/oathtool/commit/848ad4290311b010a257225ab06066a8f3a08f43",
       "git:hexsha": "848ad4290311b010a257225ab06066a8f3a08f43",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:02:02.602117+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/oathtool/commit/c85b4fe2efd14b82f5155a14a913c3fe54106a69",
